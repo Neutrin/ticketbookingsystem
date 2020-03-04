@@ -1,6 +1,12 @@
 # ticketbookingsystem
 Low level design of ticket booking system
+  
+  
+  
+  
   Requirements of the system
+  
+  
     * Search for movies/shows on the basis of name, location, genre and other parameters
     
     * Book tickets for a particular movie
